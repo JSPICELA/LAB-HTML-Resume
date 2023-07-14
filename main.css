@@ -1,3 +1,18 @@
 body {
-  background-color: olive;
+  background-color: #edede9;
+}
+
+#amazon {
+  font-family: 'Roboto Mono', monospace;
+  color: #2A2B2A
+}
+
+#kroger {
+  font-family: 'Lato', sans-serif;
+  color: #706C61;
+  font-weight: bold;
+}
+
+.head {
+  color: black;
 }
